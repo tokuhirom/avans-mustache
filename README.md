@@ -4,7 +4,7 @@
 
 Mustache bindings for Avans web application framework.
 
-*I don't recommend to use this.*. I suggest to use avans-freemarker instead.
+<B>I don't recommend to use this.</B> I suggest to use avans-freemarker instead.
 Because mustache has too cheap features for server side templating.
 
 And so, mustache template's markup rule may conflict with client side template engine.
